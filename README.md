@@ -10,7 +10,10 @@ Node.js, React.js, and MongoDB
 
 And I'm particularly passionate about FrontEnd development.
 
+Check my latest project: https://electro-hack.netlify.app/
+
 You can find me in https://www.linkedin.com/in/mjmarra/
+
 <!--
 **mjmarra/mjmarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
