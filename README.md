@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1520509414578-d9cbf09933a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2149&q=80" align="right">
+<img src="https://images.unsplash.com/photo-1562907550-096d3bf9b25c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80" align="right">
 
 ### Hi, I'm María José 👋
 
