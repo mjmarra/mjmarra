@@ -1,9 +1,10 @@
+<img src="https://images.unsplash.com/photo-1520509414578-d9cbf09933a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2149&q=80" align="right">
+
 ### Hi, I'm María José 👋
 
 I'm a Javascript Developer (Jr) from Uruguay.
 
-You can find me in linkedin.com/in/mjmarra/
-
+You can find me in https://www.linkedin.com/in/mjmarra/
 <!--
 **mjmarra/mjmarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
