@@ -4,6 +4,12 @@
 
 I'm a Javascript Developer (Jr) and Certified Translator (English) from Uruguay.
 
+Currently, I'm focusing on the following technologies:
+
+Node.js, React.js y MongoDB
+
+And I'm particularly passionate about FrontEnd development.
+
 You can find me in https://www.linkedin.com/in/mjmarra/
 <!--
 **mjmarra/mjmarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
