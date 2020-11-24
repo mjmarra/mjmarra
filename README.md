@@ -2,7 +2,7 @@
 
 ### Hi, I'm María José 👋
 
-I'm a Javascript Developer (Jr) and Certified Translator (English) from Uruguay.
+I'm a Javascript Developer (Jr) and Certified Translator (eng-spa) from Uruguay.
 
 Currently, I'm focusing on the following technologies:
 
