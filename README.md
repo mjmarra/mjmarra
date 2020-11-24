@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm María José 👋
+
+I'm a Javascript Developer (Jr) from Uruguay.
+
+You can find me in linkedin.com/in/mjmarra/
 
 <!--
 **mjmarra/mjmarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
