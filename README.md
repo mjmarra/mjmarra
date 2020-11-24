@@ -6,7 +6,7 @@ I'm a Javascript Developer (Jr) and Certified Translator (English) from Uruguay.
 
 Currently, I'm focusing on the following technologies:
 
-Node.js, React.js, and MongoDB
+Node.js, React.js, and MongoDB.
 
 And I'm particularly passionate about FrontEnd development.
 
