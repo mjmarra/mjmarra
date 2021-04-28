@@ -6,11 +6,11 @@ I'm a Full Stack Developer Jr and Certified Translator (eng-spa) from Uruguay.
 
 Currently, I'm focusing on the following technologies:
 
-Node.js, React.js, and MongoDB.
+React.js (Next.js), Node.js
 
 And I'm particularly passionate about FrontEnd development.
 
-Check my latest project: https://electro-hack.netlify.app/
+I attended a Coding Bootcamp in 2020, here is the final project: https://electro-hack.netlify.app/
 
 You can find me in https://www.linkedin.com/in/mjmarra/
 
