@@ -4,17 +4,17 @@
 # Hi, I'm María José! 👋🏼
 
   
-## 💻 About Me
+## 💻  About Me
 I'm a Full Stack Developer and a Certified Translator from Uruguay. I attended a Coding Bootcamp in 2020 and I've been working as a Full Stack Developer Jr since then.
 I'm particularly passionate about FrontEnd development.
 
 Bootcamp Final Project: https://electro-hack.netlify.app/
   
-## 🛠 Skills
+## 🛠  Skills
 HTML, CSS, JavaScript, React, TypeScript, Node, Git, MongoDB
 
   
-## 🔗 Links
+## 🔗  Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjmarra/)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/majomarra)
