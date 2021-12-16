@@ -5,7 +5,7 @@
 
   
 ## 💻  About Me
-I'm a Full Stack Developer and a Certified Translator from Uruguay. I attended a Coding Bootcamp in 2020 and I've been working as a Full Stack Developer Jr since then.
+I'm a Full Stack Developer and a Certified Translator from Uruguay. I attended a Coding Bootcamp in 2020 and I've been working as a Full Stack Developer since then.
 I'm particularly passionate about FrontEnd development.
 
 Bootcamp Final Project: https://electro-hack.netlify.app/
