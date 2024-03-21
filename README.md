@@ -5,7 +5,7 @@
 
   
 ## 💻  About Me
-I'm a Full Stack Developer and a Certified Translator from Uruguay. I attended a Coding Bootcamp in 2020 and I've been working as a Full Stack Developer since then.
+I'm a Frontend Developer from Uruguay. I attended a Coding Bootcamp in 2020 and I've been working as a Full Stack Developer since then.
 I'm particularly passionate about FrontEnd development.
 
 Bootcamp Final Project: https://electro-hack.netlify.app/
@@ -13,7 +13,7 @@ Bootcamp Final Project: https://electro-hack.netlify.app/
 Codepen: https://codepen.io/mjmarra
  
 ## 🛠  Skills
-HTML, CSS, JavaScript, React, TypeScript, Node, Git, MongoDB
+HTML, CSS, JavaScript, React, TypeScript, Node, Git
 
   
 ## 🔗  Links
