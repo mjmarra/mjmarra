@@ -1,14 +1,13 @@
-<img src="https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80" width="50%" height="auto" align="right">
+<img src="https://mjmarra.github.io/hosted-assets/img.jpg" width="100%" height="auto" >
 
 
-# Hi, I'm María José! 👋🏼
+# Hi, I'm María José! 🖇️
 
   
 ## 💻  About Me
-I'm a Frontend Developer from Uruguay. I attended a Coding Bootcamp in 2020 and I've been working as a Full Stack Developer since then.
-I'm particularly passionate about FrontEnd development.
+Hi, I'm a passionate Frontend Developer with a background in English Translation. I've been working as a Developer since 2020 on projects ranging from financial applications to education platforms. I specialize in React, TypeScript, and I particularly enjoy CSS.
 
-Bootcamp Final Project: https://electro-hack.netlify.app/
+Bootcamp Project: https://electro-hack.netlify.app/
 
 Codepen: https://codepen.io/mjmarra
  
@@ -18,8 +17,6 @@ HTML, CSS, JavaScript, React, TypeScript, Node, Git
   
 ## 🔗  Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjmarra/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/majomarra)
 
 <!--
 **mjmarra/mjmarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
