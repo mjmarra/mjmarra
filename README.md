@@ -5,31 +5,41 @@
 
   
 ## 💻  About Me
-Hi, I'm a passionate Frontend Developer with a background in English Translation. I've been working as a Developer since 2020 on projects ranging from financial applications to education platforms. I specialize in React, TypeScript, and I particularly enjoy CSS.
 
-Bootcamp Project: https://electro-hack.netlify.app/
+I'm a passionate Frontend Developer with a background in English Translation. 
+Since transitioning to tech in 2020, I've worked on a variety of projects, from financial applications to education platforms.
 
-Codepen: https://codepen.io/mjmarra
- 
-## 🛠  Skills
-CSS, React, TypeScript, Git
 
-  
-## 🔗  Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjmarra/)
+## 🫧 My Specialties
 
-<!--
-**mjmarra/mjmarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FrontEnd Development: I specialize in React and TypeScript, and I particularly enjoy working with CSS to create engaging user experiences.
 
-Here are some ideas to get you started:
+Full Stack Experience: While my focus is on the frontend, I also have some experience with Node.js and backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧩 Skills
+
+Languages: HTML, CSS, JavaScript, TypeScript
+
+Frameworks/Libraries: React, Node.js
+
+Tools: Git, VSCode, Warp, Insomnia
+
+## 🎧 Learning and Growth
+
+Currently Learning: Exploring Next.js' new features and diving deeper into advanced React patterns.
+
+Future Goals: I aim to deepen my knowledge of animations and the latest CSS features.
+
+
+## 📮 How to Reach Me
+
+Feel free to reach out for collaborations, questions, or just to connect!
+
+Email: majomarra@gmail.com
+
+LinkedIn: [mjmarra](https://www.linkedin.com/in/mjmarra/)
+
+Twitter: [majomarra](https://twitter.com/majomarra)
+
 
